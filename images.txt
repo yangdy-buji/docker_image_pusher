@@ -1,2 +1,3 @@
-node:16-alpine
-nginx:alpine
+moby/buildkit:buildx-stable-1
+#node:16-alpine
+#nginx:alpine
