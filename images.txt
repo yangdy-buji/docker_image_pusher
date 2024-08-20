@@ -1,3 +1,2 @@
 redis:6.2.14
-activemq:5.15.16
 nginx:1.18.0
