@@ -1,3 +1,1 @@
-webcenter/activemq
-webcenter/activemq:5.16.1
-webcenter/activemq:5.15.16
+webcenter/activemq:5.17.0
