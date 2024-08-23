@@ -1,2 +1,1 @@
-maven
-tomcat
+apacherocketmq/rocketmq:4.9.4
