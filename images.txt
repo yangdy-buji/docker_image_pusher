@@ -1,1 +1,1 @@
-apacherocketmq/rocketmq:4.9.4
+rabbitmq:management
